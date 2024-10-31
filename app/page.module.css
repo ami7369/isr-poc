@@ -166,3 +166,7 @@ a.secondary {
     filter: invert();
   }
 }
+
+.timestamp{
+  margin:20px 0;
+}
